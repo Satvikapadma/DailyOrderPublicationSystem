@@ -26,9 +26,3 @@ Follow these steps to set up the project on your local machine.
 - Node.js and npm installed on your machine.
 - MongoDB installed and running.
 
-### Backend Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dailyOrderPublicationSystem.git
-   cd dailyOrderPublicationSystem
